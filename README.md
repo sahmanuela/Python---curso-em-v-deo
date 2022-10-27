@@ -2,7 +2,7 @@
 
 MUNDO 1
 
-Conhecendo a linguagem
+- Conhecendo a linguagem
 Exercício Python #01 - Deixando tudo pronto
 Exercício Python #02 - Respondendo ao usuário
 

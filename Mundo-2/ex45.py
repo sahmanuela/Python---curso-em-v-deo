@@ -16,8 +16,8 @@ print('KEN')
 time.sleep(1)
 print('PÔ')
 time.sleep(1)
-print('-=' * 20)
 
+print('-=' * 20)
 if opcao == 0:
     print('Você jogou PEDRA')
 elif opcao == 1:

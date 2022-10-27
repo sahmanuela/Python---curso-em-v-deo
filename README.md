@@ -132,14 +132,13 @@ Dicionários
 - Exercício Python #092-  - Cadastro de trabalhador em Python
 - Exercício Python #093
 - Cadastro de jogador de futebol
-- - Exercício Python #094 - Unindo dicionários e listas
-- - Exercício Python #095 - Aprimorando dicionário- - - - 
-s
-- 
-- Funções
-- - Exercício Python #096 - Função que calcula área
-- - Exercício Python #097 - Um print especial
-- - Exercício Python #098 - Função de contador
+- Exercício Python #094 - Unindo dicionários e listas
+- Exercício Python #095 - Aprimorando dicionário
+
+Funções
+- Exercício Python #096 - Função que calcula área
+- Exercício Python #097 - Um print especial
+- Exercício Python #098 - Função de contador
 - Exercício Python #099 - Função que descobre o maior
 - Exercício Python #100 - Funções para sortear e somar
 - Exercício Python #101 - Funções para votação

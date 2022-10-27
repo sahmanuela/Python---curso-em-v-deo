@@ -11,7 +11,8 @@ Conhecendo a linguagem
 Primeiros passos
 - Exercício Python #03 - Somando dois números
 - Exercício Python #04 - Dissecando uma variável
-- Cálculos e operações
+
+Cálculos e operações
 - Exercício Python #05 - Antecessor e sucessor
 - Exercício Python #06 - Dobro, triplo e raiz quadrada
 - Exercício Python #07 - Média aritmética

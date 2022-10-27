@@ -1,0 +1,3 @@
+# Exercício Python 4: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+dado = (input('Insira um dado: '))
+print(f'Tipo primitivo: {type(dado)}\n É numérico? {dado.isnumeric()}\n É alfanumérico? {dado.isalnum()}\n É alphabetic? {dado.isalpha()}\n É um espaço? {dado.isspace()}\n Está com caixa baixa? {dado.islower()}\n Está em caixa alta? {dado.isupper()}\n Está capitalizado? {dado.istitle()}\n É decimal? {dado.isdecimal()}\n É printável? {dado.isprintable()}')

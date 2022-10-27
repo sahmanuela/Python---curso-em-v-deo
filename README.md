@@ -1,6 +1,6 @@
 # Exercícios do curso de Python 3 do Curso em Vídeo!
 
-MUNDO 1
+## MUNDO 1
 
 Conhecendo a linguagem
 - Exercício Python #01 - Deixando tudo pronto

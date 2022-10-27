@@ -2,7 +2,6 @@
 import time
 import random
 
-
 print('-=' * 10, 'PEDRA, PAPEL, TESOURA', '-=' * 10)
 opcao = int(input('Suas opções:\n[ 0 ] PEDRA\n[ 1 ] PAPEL\n[ 2 ] TESOURA\nQual sua jogada? '))
 

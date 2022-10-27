@@ -1,7 +1,7 @@
 # Exercícios do curso de Python 3 do Curso em Vídeo!
+Neste repositório estarão os arquivos de alguns códigos que fiz durante o meu curso de Python no canal Curso Em Vídeo com o Professor Guanabara.
 
 ## MUNDO 1
-Neste repositório estarão os arquivos de alguns códigos que fiz durante o meu curso de Python no canal Curso Em Vídeo com o Professor Guanabara.
 
 
 Conhecendo a linguagem

@@ -80,13 +80,13 @@ Repetições em Python (for)
 
 Repetições em Python (while)
 - Exercício Python #057 - Validação de dados
-- Exercício Python #058 - Jogo d- a adivinhação v2.0
-- Exercício Python #059 - Criand- o um menu de opções
-- Exercício Python #060 - Cálcul- o do fatorial
-- Exercício Python #061 - Progre- ssão aritmética v2.0
-- Exercício Python #062 - Super - Progressão Aritmética v3.0
-- Exercício Python #063 - Sequên- cia de Fibonacci v1.0
-- Exercício Python #064 - Tratan- do vários valores v1.0
+- Exercício Python #058 - Jogo da adivinhação v2.0
+- Exercício Python #059 - Criando um menu de opções
+- Exercício Python #060 - Cálculo do fatorial
+- Exercício Python #061 - Progressão aritmética v2.0
+- Exercício Python #062 - Super-Progressão Aritmética v3.0
+- Exercício Python #063 - Sequência de Fibonacci v1.0
+- Exercício Python #064 - Tratando vários valores v1.0
 - Exercício Python #065 - Maior e menor valores
 - Exercício Python #066 - Vários números com flag
 - Exercício Python #067 - Tabuada v3.0
@@ -128,10 +128,9 @@ Listas (Parte 2)
 
 Dicionários
 - Exercício Python #090 - Dicionário em Python
-- Exercício Python #091-  - Jogo de dados em Python
-- Exercício Python #092-  - Cadastro de trabalhador em Python
-- Exercício Python #093
-- Cadastro de jogador de futebol
+- Exercício Python #091 - Jogo de dados em Python
+- Exercício Python #092 - Cadastro de trabalhador em Python
+- Exercício Python #093 - Cadastro de jogador de futebol
 - Exercício Python #094 - Unindo dicionários e listas
 - Exercício Python #095 - Aprimorando dicionário
 

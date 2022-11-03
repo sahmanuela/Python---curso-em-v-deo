@@ -6,6 +6,9 @@
 # [ 5 ] sair do programa
 # Seu programa deverá realizar a operação solicitada em cada caso.
 import time
+print('-=' * 20)
+print('MENU DE OPÇÕES')
+print('-=' * 20)
 
 num1 = int(input('Insira um número inteiro: '))
 num2 = int(input('Insira outro número inteiro: '))

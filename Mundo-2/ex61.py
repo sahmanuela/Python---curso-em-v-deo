@@ -5,6 +5,7 @@ print('-=' * 20)
 
 primTermo = int(input('Insira o primeiro termo da PA: '))
 razao = int(input('Insira a razão da PA: '))
+
 ultimoTermo = (primTermo + (10-1)*razao) + 1
 print('-=' * 20)
 
@@ -13,4 +14,5 @@ while n < 10:
     print(primTermo, end=' → ')
     primTermo += razao
     n += 1
+
 print('PAUSA')

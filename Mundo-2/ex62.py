@@ -15,12 +15,12 @@ while n < termos:
     print(primTermo, end=' → ')
     primTermo += razao
     n += 1
-print('PAUSA')
 
+print('PAUSA')
 print('-=' * 20)
+
 maisTermos = int(input('Quantos termos você quer mostrar a mais? '))
 termos = termos + maisTermos
-
 
 while maisTermos != 0:
     while n <= termos - 1:

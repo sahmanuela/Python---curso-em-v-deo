@@ -3,7 +3,7 @@
 # A Sequência de Fibonacci tem como primeiros termos os números 0 e 1 e, a seguir, cada termo subsequente é obtido pela soma dos dois termos predecessores
 
 print('-=' * 20)
-print('SEQUÊNCIA DE FIBONACCI')
+print('SEQUÊNCIA DE FIBONACCI!')
 print('-=' * 20)
 
 n = int(input('Quantos termos você quer mostrar? '))

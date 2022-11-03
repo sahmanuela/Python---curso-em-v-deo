@@ -4,15 +4,15 @@ print('LEITURA E ANÁLISE DE NÚMEROS')
 print('-=' * 20)
 
 n = cont = soma = 0
-sn = "S"
+resposta = "S"
 
-while sn == 'S':
+while resposta == 'S':
     n = int(input('Insira um valor: '))
-    sn = input('Deseja continuar? [S/N] ').upper()
+    resposta = input('Deseja continuar? [S/N] ').upper()
     cont += 1
     soma += n
 
-    if sn != 'S' and sn != 'N':
+    if resposta != 'S' and resposta != 'N':
         print('Opção inválida!')
 
 print(f'Você digitou {cont} números e a soma entre eles foi de {soma}.')

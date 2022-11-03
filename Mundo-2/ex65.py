@@ -3,7 +3,7 @@ print('-=' * 20)
 print('LEITURA E ANÁLISE DE NÚMEROS')
 print('-=' * 20)
 
-n = cont = soma = 0
+n = cont = soma = maior = menor = 0
 resposta = "S"
 
 while resposta == 'S':
@@ -12,7 +12,14 @@ while resposta == 'S':
     cont += 1
     soma += n
 
+    if cont == 1:
+        maior = menor = n
+    else:
+        if n > maior:
+            maior = n
+        if n < menor:
+            menor = n
     if resposta != 'S' and resposta != 'N':
         print('Opção inválida!')
 
-print(f'Você digitou {cont} números e a soma entre eles foi de {soma}.')
+print(f'Você digitou {cont} números. \nA soma entre eles é: {soma}\nMédia entre eles: {(soma/cont):.2f}.\nMaior número: {maior}.\nMenor número: {menor}')

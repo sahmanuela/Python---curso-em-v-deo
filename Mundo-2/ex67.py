@@ -9,7 +9,7 @@ print('-=' * 30)
 while True:
     num = int(input('Quer ver a tabuada de qual valor? '))
     print('-' * 40)
-    if num > 0:
+    if num >= 0:
         for i in range(0, 11):
             print(f'{num} x {i} = {num * i}')
         print('-' * 40)
